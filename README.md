@@ -1,4 +1,6 @@
 # Weather_AI
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArtemKrayevskiy/Weather_AI/blob/main/Project.ipynb)
+
 
 # Voice Assistant with Weather Integration 🌤️🎙️
 
@@ -25,3 +27,5 @@ It combines speech-to-text, natural language understanding, and text-to-speech c
    - Verbally (using text-to-speech technology)
    - As plain text in the output console
 ---
+
+This is a semester proejct of 3rd grade students from UCU: Artem Kraievskyi, Natalia Scherba, Olexandara Symko, Vitalii Sharaev, Olena Mysyshyn
