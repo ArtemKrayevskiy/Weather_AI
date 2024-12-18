@@ -28,4 +28,4 @@ It combines speech-to-text, natural language understanding, and text-to-speech c
    - As plain text in the output console
 ---
 
-This is a semester proejct of 3rd grade students from UCU: Artem Kraievskyi, Natalia Shcherba, Olexandara Symko, Vitalii Sharaev, Olena Mysyshyn
+This is a semester proejct of 3rd grade students from UCU: Artem Kraievskyi, Natalia Shcherba, Olexandara Symko, Vitalii Sharaiev, Olena Mysyshyn
