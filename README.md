@@ -1,5 +1,5 @@
 # Weather_AI
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArtemKrayevskiy/Weather_AI/blob/main/Project.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DBHM033AYa0jVGycBkgNSU3zhlEQuH9Z#scrollTo=z8frxwH59rx8)
 
 
 # Voice Assistant with Weather Integration 🌤️🎙️
